@@ -1,0 +1,29 @@
+/* Custom styles */
+@import "tailwindcss";
+
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background-image: url("forest-home.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-button {
+    background-color: #FFD700;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.space-x-6{
+border-bottom: black;
+border: 1px;
+
+
+
+}
